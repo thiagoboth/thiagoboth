@@ -24,7 +24,7 @@ Passionate about learning and solving problems through programming. Having as a 
 "Insanity is doing the same thing over and over and expecting different results."
    ##
    
-Skills in development:
+Skills:
    
 <div flexDirection='row'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=36 height=36 margin=8 />
